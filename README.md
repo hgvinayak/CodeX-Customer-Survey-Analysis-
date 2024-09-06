@@ -26,14 +26,14 @@ Mainly the analysis will be focused on,
 
 
 🌱𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀:
-• Male consumers are more likely to prefer energy drinks, with approximately 60% of respondents indicating a preference.
-• A significant portion (60%) of respondents expressed health concerns about energy drinks.
-• Coca-Cola is the dominant brand in the market, primarily due to its widespread availability, strong brand reputation, and appealing taste and flavors.
-• Around 20% of respondents perceived energy drinks as being dangerous.
-• Online advertising channels proved to be more effective in reaching and engaging customers.
+1. Male consumers are more likely to prefer energy drinks, with approximately 60% of respondents indicating a preference.
+2. significant portion (60%) of respondents expressed health concerns about energy drinks.
+3. Coca-Cola is the dominant brand in the market, primarily due to its widespread availability, strong brand reputation, and appealing taste and flavors.
+4. Around 20% of respondents perceived energy drinks as being dangerous.
+5. Online advertising channels proved to be more effective in reaching and engaging customers.
 
 ⏳ 𝗘𝘅𝗽𝗲𝗰𝘁𝗲𝗱 𝗢𝘂𝘁𝗰𝗼𝗺𝗲 :
- • Data-Driven Business Decision
-• Strategic Marketing, Advertising
-• Increasing Brand Awareness
-• Key areas of product development
+ 1. Data-Driven Business Decision
+ 2. Strategic Marketing, Advertising
+ 3. Increasing Brand Awareness
+ 4. Key areas of product development
