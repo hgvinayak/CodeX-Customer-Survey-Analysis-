@@ -22,18 +22,15 @@ Mainly the analysis will be focused on,
 4. Marketing Channels and Brand Awareness:
 5. Brand Penetration:
 6. Purchase Behavior:
-7. Product Development
+7. Product Development.
 
-🌱 𝗦𝘂𝗿𝘃𝗲𝘆 𝗤𝘂𝗲𝘁𝗶𝗼𝗻𝘀 𝗢𝘂𝘁𝗰𝗼𝗺𝗲:
-• Customer Demographic information - Age, Gender, and City
-• Current Brands in the Market
-• Current Perception of the Brand
-• Product Experience
-• Frequency of energy drink consumption
-• Ingredients and Health-related information
-• Product pricing and availability
-• Marketing and Packaging
 
+🌱𝗞𝗲𝘆 𝗧𝗮𝗸𝗲𝗮𝘄𝗮𝘆𝘀:
+• Male consumers are more likely to prefer energy drinks, with approximately 60% of respondents indicating a preference.
+• A significant portion (60%) of respondents expressed health concerns about energy drinks.
+• Coca-Cola is the dominant brand in the market, primarily due to its widespread availability, strong brand reputation, and appealing taste and flavors.
+• Around 20% of respondents perceived energy drinks as being dangerous.
+• Online advertising channels proved to be more effective in reaching and engaging customers.
 
 ⏳ 𝗘𝘅𝗽𝗲𝗰𝘁𝗲𝗱 𝗢𝘂𝘁𝗰𝗼𝗺𝗲 :
  • Data-Driven Business Decision
