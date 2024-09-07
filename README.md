@@ -1,20 +1,17 @@
-🌱𝗣𝗿𝗼𝗷𝗲𝗰𝘁: 𝗖𝗼𝗱𝗲𝗫-𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗿𝘃𝗲𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
-
--- Provide Insights to the Marketing team in Food and Beverage Industry.
+# 🌱𝗣𝗿𝗼𝗷𝗲𝗰𝘁: 𝗖𝗼𝗱𝗲𝗫-𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗿𝘃𝗲𝘆 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀
+Providing Insights to the Marketing team in Food and Beverage Industry.
 #
-👉𝗔𝗯𝗼𝘂𝘁 𝗖𝗼𝗱𝗲𝗫: 
+👉𝗔𝗯𝗼𝘂𝘁 **Company:**
 
--CodeX is a German beverage company that is aiming to make its mark in the Indian market
--- The main product of CodeX is an Energy drink.
+CodeX is a German beverage company that is aiming to make its mark in the Indian market. The main product of CodeX is an Energy drink.
 
 🤔𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝘁𝗮𝘁𝗲𝗺𝗲𝗻𝘁:
 
--- A few months ago, CodeX launched their energy drink in 10 cities in India.
--- Their Marketing team is responsible for increasing brand awareness, market share, and product development. so that the company can expand its business all over India.
--- CodeX conducted a survey in those 10 cities and received results from 10k respondents. 
+A few months ago, CodeX launched their energy drink in 10 cities in India. Their Marketing team is responsible for increasing brand awareness, market share, and product development. so that the company can expand its business all over India. CodeX conducted a survey in those 10 cities and received results from 10k respondents. 
 
 📌 𝗔𝗰𝘁𝗶𝗼𝗻 :
--- So the Analytics team will now need to convert these survey results to meaningful insights which the team can use to drive actions.
+
+converting these survey results to meaningful insights which the team can use to drive actions.
 Mainly the analysis will be focused on,
 1. Demographic Insights (examples)
 2. Consumer Preferences:
